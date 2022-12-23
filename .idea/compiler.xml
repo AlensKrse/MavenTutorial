@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="jaxb" />
         <module name="json" />
+        <module name="groovy" />
+        <module name="jabx" />
         <module name="lombok" />
       </profile>
       <profile name="Annotation profile for maventutorial" enabled="true">
@@ -22,5 +24,9 @@
         <module name="mapstruct" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="GreclipseSettings">
+    <option name="greclipsePath" value="$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-eclipse-batch/3.0.8-01/groovy-eclipse-batch-3.0.8-01.jar" />
+    <option name="cmdLineParams" value="-indy -configScript config.groovy" />
   </component>
 </project>
