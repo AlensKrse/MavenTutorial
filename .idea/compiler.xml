@@ -2,13 +2,16 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jaxb" />
-        <module name="json" />
         <module name="groovy" />
+        <module name="scala" />
+        <module name="kotlin" />
+        <module name="json" />
         <module name="jabx" />
         <module name="lombok" />
       </profile>
@@ -26,7 +29,7 @@
     </annotationProcessing>
   </component>
   <component name="GreclipseSettings">
-    <option name="greclipsePath" value="$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-eclipse-batch/3.0.8-01/groovy-eclipse-batch-3.0.8-01.jar" />
+    <option name="greclipsePath" value="$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-eclipse-batch/3.0.10-02/groovy-eclipse-batch-3.0.10-02.jar" />
     <option name="cmdLineParams" value="-indy -configScript config.groovy" />
   </component>
 </project>

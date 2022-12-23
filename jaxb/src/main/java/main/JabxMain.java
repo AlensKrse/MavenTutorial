@@ -1,7 +1,7 @@
 package main;
 
-import guru.springframework.domain.CreateProductRequest;
 import org.apache.commons.lang3.StringUtils;
+import org.example.jaxb.CreateProductRequest;
 
 public class JabxMain {
 

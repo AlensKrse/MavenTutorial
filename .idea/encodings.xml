@@ -9,10 +9,14 @@
     <file url="file://$PROJECT_DIR$/json/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/json/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/json/target/java-gen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kotlin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kotlin/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lombok/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lombok/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mapstruct/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mapstruct/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scala/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scala/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
