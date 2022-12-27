@@ -3,10 +3,10 @@
   <component name="AutoImportedSourceRoots">
     <option name="directories">
       <list>
-        <option value="$MODULE_DIR$/kotlin/src/main/java" />
-        <option value="$MODULE_DIR$/kotlin/src/main/kotlin" />
-        <option value="$MODULE_DIR$/kotlin/src/test/java" />
-        <option value="$MODULE_DIR$/kotlin/src/test/kotlin" />
+        <option value="$MODULE_DIR$/jvm/kotlin/src/test/kotlin" />
+        <option value="src/main/java" />
+        <option value="src/main/kotlin" />
+        <option value="src/test/java" />
       </list>
     </option>
   </component>

@@ -10,13 +10,18 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>jaxb</module>
-        <module>json</module>
-        <module>lombok</module>
-        <module>mapstruct</module>
-        <module>groovy</module>
-        <module>kotlin</module>
-        <module>scala</module>
+        <module>mapping/jaxb</module>
+        <module>mapping/json</module>
+        <module>mapping/lombok</module>
+        <module>mapping/mapstruct</module>
+        <module>jvm/groovy</module>
+        <module>jvm/kotlin</module>
+        <module>jvm/scala</module>
+        <module>testing/pojo</module>
+        <module>testing/junit4</module>
+        <module>testing/junit5</module>
+        <module>testing/junit4_junit5</module>
+        <module>testing/groovy_junit4</module>
     </modules>
 
     <properties>
