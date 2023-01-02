@@ -5,20 +5,12 @@
     <parent>
         <artifactId>maventutorial</artifactId>
         <groupId>org.example</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>${revision}</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>groovy</artifactId>
-
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <java.version>11</java.version>
-        <maven.compiler.source>${java.version}</maven.compiler.source>
-        <maven.compiler.target>${java.version}</maven.compiler.target>
-    </properties>
 
     <dependencies>
         <dependency>
@@ -47,7 +39,7 @@
                         <indy/><!-- optional; supported by batch 2.4.12-04+ -->
                         <configScript>config.groovy</configScript><!-- optional; supported by batch 2.4.13-02+ -->
                     </compilerArguments>
-                    <failOnWarning>true</failOnWarning><!-- optional; supported by batch 2.5.8-02+ -->
+                    <failOnWarning>false</failOnWarning><!-- optional; supported by batch 2.5.8-02+ -->
                 </configuration>
                 <dependencies>
                     <dependency>

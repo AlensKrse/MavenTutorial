@@ -5,145 +5,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c730315e-17b6-450c-acb8-f579e5c7260f" name="Changes" comment="Add java-kotlin, java-scala maven projects">
-      <change afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/groovy/target/classes/groovymain/GroovyMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/groovy/target/classes/javamain/JavaMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jaxb/target/classes/META-INF/sun-jaxb.episode" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jaxb/target/classes/jaxb.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jaxb/target/generated-sources/xjc/META-INF/sun-jaxb.episode" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jaxb/target/generated-sources/xjc/org/example/jaxb/CreateProductRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jaxb/target/generated-sources/xjc/org/example/jaxb/ObjectFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jaxb/target/generated-sources/xjc/org/example/jaxb/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jaxb/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jaxb/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/target/classes/main/JsonMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/target/classes/org/example/json/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/target/classes/schema/address.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/target/java-gen/org/example/json/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin/src/main/java/javamain/JavaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin/src/main/kotlin/kotlinmain/KotlinMain.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin/target/classes/META-INF/kotlin.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin/target/classes/javamain/JavaMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin/target/classes/kotlinmain/KotlinMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin/target/maven-status/maven-compiler-plugin/compile/java-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin/target/maven-status/maven-compiler-plugin/compile/java-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$14341c93d36ff9a54164$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$14341c93d36ff9a54164.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$14341c93d36ff9a54164.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/maventutorial-compile/.sbt-idea-lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/active.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$083b2d86aed5f8a6d72b$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$083b2d86aed5f8a6d72b.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$083b2d86aed5f8a6d72b.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/sync/copy-resource" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/bspReporter/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/src/main/java/JavaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/src/main/scala/ScalaMain.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/target/classes/JavaMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/target/scala-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/target/scala-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/bg-jobs/sbt_79c3e79a/target/8cba0ddf/ba469b7f/scala-library.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log11192528679155596474.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/sync/copy-resource" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/inputs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/bspReporter/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/compile/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/internalDependencyAsJars/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/jpa-entities/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/jpa-entities/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/jpa-entities/src/main/java/org/example/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/groovy/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/kotlin/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/scala/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mapping/jaxb/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mapping/json/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mapping/lombok/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mapping/mapstruct/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/src/main/java/org/spring/boot/example/springbootmaven/SpringBootMavenApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/src/test/java/org/spring/boot/example/springbootmaven/SpringBootMavenApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/groovy_junit4/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/integration_test/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/integration_test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/integration_test/src/main/java/JavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/integration_test/src/test/java/JavaMainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/integration_test/src/test/java/JavaMainTestIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/jacoco/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/jacoco/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/jacoco/src/main/java/JavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/jacoco/src/test/java/JavaMainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/jacoco/src/test/java/JavaMainTestIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/junit4/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/junit4_junit5/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/junit5/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/junit5_report/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/junit5_report/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/junit5_report/src/main/java/JavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/junit5_report/src/test/java/JavaMainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/pojo/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/spotbugs/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/spotbugs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/spotbugs/src/main/java/JavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/spotbugs/src/test/java/JavaMainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/spotbugs/src/test/java/JavaMainTestIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/testng/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/testng/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/testng/src/main/java/JavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/testng/src/test/java/JavaMainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-api/.flattened-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-api/src/main/java/org/example/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-api/src/main/java/org/example/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jaxb/src/main/java/main/JabxMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/jaxb/src/main/java/main/JabxMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jaxb/src/main/resources/jaxb.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/jaxb/src/main/resources/jaxb.xsd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapstruct/target/generated-sources/annotations/main/mapper/UserMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mapstruct/target/generated-sources/annotations/main/mapper/UserMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/groovy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/groovy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/kotlin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/kotlin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/scala/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/scala/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapping/jaxb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mapping/jaxb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapping/json/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mapping/json/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapping/lombok/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mapping/lombok/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapping/mapstruct/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mapping/mapstruct/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/groovy_junit4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/groovy_junit4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/junit4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/junit4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/junit4_junit5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/junit4_junit5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/junit5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/junit5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/pojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/pojo/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +90,7 @@
       <list>
         <option value="Interface" />
         <option value="Kotlin Class" />
+        <option value="TestNG Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -168,8 +101,30 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.idea/workspace.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jvm/groovy/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/mapping/jaxb/src/main/java/main/JabxMain.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/mapping/json/src/main/java/main/JsonMain.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testing/groovy_junit4/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testing/groovy_junit4/src/main/groovy/GroovyMain.groovy" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testing/groovy_junit4/src/main/java/JavaMain.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testing/groovy_junit4/src/test/java/JavaMainTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testing/junit4/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testing/junit4/src/test/java/JavaMainTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -184,32 +139,48 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "TestNG",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
     "dart.analysis.tool.window.visible": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "/Users/alenkrse/maventutorial/maventutorial",
+    "last_opened_file_path": "/Users/alenkrse/maventutorial/maventutorial/testing/spotbugs",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "Scala Compiler"
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mapstruct" />
-      <recent name="$PROJECT_DIR$/lombok" />
+      <recent name="$PROJECT_DIR$/testing/spotbugs" />
+      <recent name="$PROJECT_DIR$/testing/jacoco/src/test/java" />
+      <recent name="$PROJECT_DIR$/testing/integration_test" />
+      <recent name="$PROJECT_DIR$/testing/junit5_report" />
+      <recent name="$PROJECT_DIR$/testing" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/jaxb/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="main" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ScalaMain">
@@ -261,12 +232,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringBootMavenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-maven" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.boot.example.springbootmaven.SpringBootMavenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ScalaMain" />
       <item itemvalue="Application.GroovyMain" />
       <item itemvalue="Application.groovymain.GroovyMain" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Kotlin.KotlinMainKt" />
+      <item itemvalue="Spring Boot.SpringBootMavenApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -291,6 +270,12 @@
       <workItem from="1671695430333" duration="5101000" />
       <workItem from="1671713494519" duration="5428000" />
       <workItem from="1671786595068" duration="1299000" />
+      <workItem from="1672148562506" duration="595000" />
+      <workItem from="1672212074342" duration="598000" />
+      <workItem from="1672257625092" duration="583000" />
+      <workItem from="1672308878986" duration="597000" />
+      <workItem from="1672313301201" duration="604000" />
+      <workItem from="1672651771467" duration="13651000" />
     </task>
     <task id="LOCAL-00001" summary="Add java-groovy module">
       <created>1671785519704</created>
@@ -312,7 +297,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add java-groovy module" />
     <MESSAGE value="Add java-kotlin, java-scala maven projects" />
     <option name="LAST_COMMIT_MESSAGE" value="Add java-kotlin, java-scala maven projects" />

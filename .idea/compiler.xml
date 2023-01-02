@@ -7,13 +7,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jaxb" />
-        <module name="groovy" />
+        <module name="junit4" />
+        <module name="junit5" />
         <module name="scala" />
         <module name="kotlin" />
-        <module name="json" />
-        <module name="jabx" />
+        <module name="jacoco" />
+        <module name="junit4_junit5" />
+        <module name="integrationtest" />
+        <module name="spring-boot-maven" />
         <module name="lombok" />
+        <module name="jaxb" />
+        <module name="pojo" />
+        <module name="groovy" />
+        <module name="groovy_junit4" />
+        <module name="integration_test" />
+        <module name="web-api" />
+        <module name="json" />
+        <module name="spotbugs" />
+        <module name="jabx" />
+        <module name="testng" />
+        <module name="junit5_report" />
+        <module name="jpa-entities" />
       </profile>
       <profile name="Annotation profile for maventutorial" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -27,9 +41,20 @@
         <module name="mapstruct" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="integration_test" target="11" />
+      <module name="integrationtests" target="19" />
+      <module name="jabx" target="11" />
+      <module name="junit5 (1)" target="19" />
+    </bytecodeTargetLevel>
   </component>
   <component name="GreclipseSettings">
     <option name="greclipsePath" value="$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-eclipse-batch/3.0.10-02/groovy-eclipse-batch-3.0.10-02.jar" />
     <option name="cmdLineParams" value="-indy -configScript config.groovy" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-maven" options="-parameters" />
+    </option>
   </component>
 </project>

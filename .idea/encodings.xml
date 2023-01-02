@@ -1,23 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/core/jpa-entities/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/jpa-entities/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/groovy/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/groovy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integrationtests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integrationtests/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jaxb/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jaxb/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jaxb/target/generated-sources/xjc" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/json/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/json/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/json/target/java-gen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jvm/groovy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jvm/groovy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jvm/kotlin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jvm/kotlin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jvm/scala/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jvm/scala/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/kotlin/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/kotlin/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lombok/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lombok/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapping/jaxb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapping/jaxb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapping/json/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapping/json/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapping/lombok/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapping/lombok/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapping/mapstruct/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapping/mapstruct/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mapstruct/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mapstruct/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/scala/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/scala/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootexample/spring-boot-maven/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/groovy_junit4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/groovy_junit4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/integration_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/integration_test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/jacoco/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/jacoco/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/junit4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/junit4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/junit4_junit5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/junit4_junit5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/junit5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/junit5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/junit5_report/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/junit5_report/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/pojo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/spotbugs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/spotbugs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/testng/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing/testng/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/web-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/web-api/src/main/resources" charset="UTF-8" />
   </component>
 </project>
