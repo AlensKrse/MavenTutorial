@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>spring-boot-maven</artifactId>
+        <groupId>org.spring.boot.example</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>web_model</artifactId>
+    <packaging>jar</packaging>
+
+    <properties>
+        <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
+    </properties>
+
+    <!-- this dependency taken by jboss profile defined in local settings.xml -->
+    <dependencies>
+        <dependency>
+            <groupId>org.jboss.ejb3</groupId>
+            <artifactId>jboss-ejb3-api</artifactId>
+            <version>3.1.0</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <extensions>
+            <extension>
+                <groupId>io.packagecloud.maven.wagon</groupId>
+                <artifactId>maven-packagecloud-wagon</artifactId>
+                <version>0.0.6</version>
+            </extension>
+        </extensions>
+    </build>
+
+    <distributionManagement>
+        <repository>
+            <id>packagecloud.release</id>
+            <url>packagecloud+https://packagecloud.io/maventutorial/release</url>
+        </repository>
+        <snapshotRepository>
+            <id>packagecloud.snapshot</id>
+            <url>packagecloud+https://packagecloud.io/maventutorial/snapshot</url>
+        </snapshotRepository>
+    </distributionManagement>
+
+<!--    <settings>-->
+<!--        <servers>-->
+<!--            <server>-->
+<!--                <id>packagecloud.releases</id>-->
+<!--                <password>test</password>-->
+<!--            </server>-->
+<!--            <server>-->
+<!--                <id>packagecloud.snapshots</id>-->
+<!--                <password>test</password>-->
+<!--            </server>-->
+<!--        </servers>-->
+<!--    </settings>-->
+
+</project>
