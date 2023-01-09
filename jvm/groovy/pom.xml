@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>maventutorial</artifactId>
         <groupId>org.example</groupId>
-        <version>1.0</version>
+        <version>${revision}</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -34,7 +36,7 @@
                 <configuration>
                     <compilerId>groovy-eclipse-compiler</compilerId>
                     <compilerArguments>
-                        <indy /><!-- optional; supported by batch 2.4.12-04+ -->
+                        <indy/><!-- optional; supported by batch 2.4.12-04+ -->
                         <configScript>config.groovy</configScript><!-- optional; supported by batch 2.4.13-02+ -->
                     </compilerArguments>
                     <failOnWarning>false</failOnWarning><!-- optional; supported by batch 2.5.8-02+ -->
