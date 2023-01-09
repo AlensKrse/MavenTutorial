@@ -6,7 +6,6 @@ version: 2.1
 # See: https://circleci.com/docs/2.0/configuration-reference/#jobs
 jobs:
 
-
   # Below is the definition of your job to build and test your app, you can rename and customize it as you want.
   build-and-test:
     # These next lines define a Docker executor: https://circleci.com/docs/2.0/executor-types/
@@ -21,6 +20,10 @@ jobs:
       # Checkout the code as the first step.
       - checkout
       # Use mvn clean and package as the standard maven build phase
+
+      - add_ssh_keys:
+          fingerprints:
+            - "11:a8:69:17:f1:a4:ae:0e:ff:1f:f6:c6:49:50:77:ae"
       - run:
           name: Build
           command: mvn -B -DskipTests clean package
