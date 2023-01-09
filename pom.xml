@@ -101,9 +101,10 @@
     </dependencies>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/AlensKrse/MavenTutorial.git</developerConnection>
+        <connection>scm:git:https://github.com/AlensKrse/MavenTutorial.git</connection>
+        <developerConnection>scm:git:ssh://github.com/AlensKrse/MavenTutorial.git</developerConnection>
         <url>https://github.com/AlensKrse/MavenTutorial</url>
-    </scm>
+  </scm>
 
     <build>
         <plugins>
