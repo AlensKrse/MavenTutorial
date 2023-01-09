@@ -27,38 +27,4 @@
         </dependency>
     </dependencies>
 
-    <build>
-        <extensions>
-            <extension>
-                <groupId>io.packagecloud.maven.wagon</groupId>
-                <artifactId>maven-packagecloud-wagon</artifactId>
-                <version>0.0.6</version>
-            </extension>
-        </extensions>
-    </build>
-
-    <distributionManagement>
-        <repository>
-            <id>packagecloud.release</id>
-            <url>packagecloud+https://packagecloud.io/maventutorial/release</url>
-        </repository>
-        <snapshotRepository>
-            <id>packagecloud.snapshot</id>
-            <url>packagecloud+https://packagecloud.io/maventutorial/snapshot</url>
-        </snapshotRepository>
-    </distributionManagement>
-
-<!--    <settings>-->
-<!--        <servers>-->
-<!--            <server>-->
-<!--                <id>packagecloud.releases</id>-->
-<!--                <password>test</password>-->
-<!--            </server>-->
-<!--            <server>-->
-<!--                <id>packagecloud.snapshots</id>-->
-<!--                <password>test</password>-->
-<!--            </server>-->
-<!--        </servers>-->
-<!--    </settings>-->
-
 </project>

@@ -15,5 +15,7 @@ class JavaMainJUnit5Test {
     void testFailGetHello() {
         final String helloWorld = new JavaMain().getHelloWorld();
         assertNotEquals("Hello worldx", helloWorld);
+
+        System.out.println(System.getenv("TEST_ENV"));
     }
 }

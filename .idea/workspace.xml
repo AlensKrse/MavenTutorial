@@ -5,21 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c730315e-17b6-450c-acb8-f579e5c7260f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/web_app/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/web_app/src/main/java/org/spring/boot/example/springbootmaven/controller/ExampleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/web_app/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/web_app/src/test/java/org/spring/boot/example/springbootmaven/WebAppApplicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/web_model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/web_model/src/main/java/org/spring/boot/example/springbootmaven/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/web_model/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.flattened-pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/jpa-entities/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/jpa-entities/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/jpa-entities/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/jpa-entities/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/groovy/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/groovy/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/kotlin/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/kotlin/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/scala/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/scala/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapping/jaxb/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mapping/jaxb/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapping/json/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mapping/json/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapping/lombok/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mapping/lombok/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapping/mapstruct/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mapping/mapstruct/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springbootexample/spring-boot-maven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootexample/spring-boot-maven/src/main/java/org/spring/boot/example/springbootmaven/SpringBootMavenApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/web_app/src/main/java/org/spring/boot/example/springbootmaven/WebAppApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootexample/spring-boot-maven/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootexample/spring-boot-maven/src/test/java/org/spring/boot/example/springbootmaven/SpringBootMavenApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootexample/spring-boot-maven/web_model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springbootexample/spring-boot-maven/web_model/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/groovy_junit4/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/groovy_junit4/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/integration_test/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/integration_test/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/jacoco/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/jacoco/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/junit4/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/junit4/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/junit4_junit5/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/junit4_junit5/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/junit4_junit5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/junit4_junit5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/junit4_junit5/src/test/java/JavaMainJUnit5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testing/junit4_junit5/src/test/java/JavaMainJUnit5Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/junit5/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/junit5/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/junit5_report/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/junit5_report/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/pojo/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/pojo/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/spotbugs/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/spotbugs/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/testng/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing/testng/.flattened-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web-api/.flattened-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-api/.flattened-pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +91,7 @@
     </option>
     <option name="disabledProfiles">
       <list>
+        <option value="nexus-profile" />
         <option value="nativeTest" />
       </list>
     </option>
@@ -91,32 +107,32 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "TestNG",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
-    "dart.analysis.tool.window.visible": "false",
-    "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "/Users/alenkrse/maventutorial/maventutorial/springbootexample/spring-boot-maven/web_app/src/test/java",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "83a156eef2c9b5ef4633822528b1f91d",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;TestNG&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG&quot;: &quot;&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/alenkrse/maventutorial/maventutorial/springbootexample/spring-boot-maven/web_app/src/test/java&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;83a156eef2c9b5ef4633822528b1f91d&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/springbootexample/spring-boot-maven/web_app/src/test/java" />
@@ -143,7 +159,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.WebAppApplication">
+  <component name="RunManager" selected="JUnit.JavaMainJUnit5Test.testFailGetHello">
     <configuration name="GroovyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.GroovyMain" />
       <module name="groovy" />
@@ -153,13 +169,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="maventutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -180,6 +189,16 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaMainJUnit5Test.testFailGetHello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit4_junit5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JavaMainJUnit5Test" />
+      <option name="METHOD_NAME" value="testFailGetHello" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -210,18 +229,18 @@
       <item itemvalue="Application.ScalaMain" />
       <item itemvalue="Application.GroovyMain" />
       <item itemvalue="Application.groovymain.GroovyMain" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.JavaMainJUnit5Test.testFailGetHello" />
       <item itemvalue="Kotlin.KotlinMainKt" />
       <item itemvalue="Spring Boot.WebAppApplication" />
       <item itemvalue="Spring Boot.SpringBootMavenApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JavaMainJUnit5Test.testFailGetHello" />
         <item itemvalue="Application.ScalaMain" />
         <item itemvalue="Kotlin.KotlinMainKt" />
         <item itemvalue="Application.groovymain.GroovyMain" />
         <item itemvalue="Application.GroovyMain" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +264,9 @@
       <workItem from="1672313301201" duration="604000" />
       <workItem from="1672651771467" duration="15942000" />
       <workItem from="1672737897422" duration="10495000" />
-      <workItem from="1672902669633" duration="305000" />
+      <workItem from="1672902669633" duration="2160000" />
+      <workItem from="1672908225408" duration="4504000" />
+      <workItem from="1672941008457" duration="1582000" />
     </task>
     <task id="LOCAL-00001" summary="Add java-groovy module">
       <created>1671785519704</created>
@@ -268,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672688617587</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Make spring boot project multi module">
+      <created>1672903147440</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672903147440</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +318,7 @@
     <MESSAGE value="Add java-groovy module" />
     <MESSAGE value="Add java-kotlin, java-scala maven projects" />
     <MESSAGE value="Rework modules and parent pom, add spring boot project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rework modules and parent pom, add spring boot project" />
+    <MESSAGE value="Make spring boot project multi module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make spring boot project multi module" />
   </component>
 </project>
