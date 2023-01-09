@@ -21,10 +21,6 @@ jobs:
       # Checkout the code as the first step.
       - checkout
       # Use mvn clean and package as the standard maven build phase
-
-      - add_ssh_keys:
-          fingerprints:
-            - "29:99:9e:c5:1a:db:a7:35:c4:58:2a:5b:24:c2:91:cc"
       - run:
           name: Build
           command: mvn -B -DskipTests clean package
