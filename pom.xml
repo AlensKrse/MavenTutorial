@@ -99,7 +99,7 @@
     </dependencies>
 
     <scm>
-        <connection>scm:git:https://github.com/AlensKrse/MavenTutorial.git</connection>
+        <connection>scm:git:ssh://github.com/AlensKrse/MavenTutorial.git</connection>
         <developerConnection>scm:git:ssh://github.com/AlensKrse/MavenTutorial.git</developerConnection>
         <url>https://github.com/AlensKrse/MavenTutorial</url>
     <tag>maventutorial-1.0</tag>
