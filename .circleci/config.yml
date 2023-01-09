@@ -28,7 +28,7 @@ jobs:
       - run:
           name: GitHub name
           command: git config --global user.name "Circle ci"
-      # Then release new version!
+      # Then release new version !
       - run:
           name: Release
           command: mvn --batch-mode release:prepare release:perform -s .circleci/settings.xml
